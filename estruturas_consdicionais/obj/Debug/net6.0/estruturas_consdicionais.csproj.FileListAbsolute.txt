@@ -1,0 +1,14 @@
+D:\estruturas_consdicionais\estruturas_consdicionais\bin\Debug\net6.0\estruturas_consdicionais.exe
+D:\estruturas_consdicionais\estruturas_consdicionais\bin\Debug\net6.0\estruturas_consdicionais.deps.json
+D:\estruturas_consdicionais\estruturas_consdicionais\bin\Debug\net6.0\estruturas_consdicionais.runtimeconfig.json
+D:\estruturas_consdicionais\estruturas_consdicionais\bin\Debug\net6.0\estruturas_consdicionais.dll
+D:\estruturas_consdicionais\estruturas_consdicionais\bin\Debug\net6.0\estruturas_consdicionais.pdb
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.AssemblyInfoInputs.cache
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.AssemblyInfo.cs
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.csproj.CoreCompileInputs.cache
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.dll
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\refint\estruturas_consdicionais.dll
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.pdb
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\estruturas_consdicionais.genruntimeconfig.cache
+D:\estruturas_consdicionais\estruturas_consdicionais\obj\Debug\net6.0\ref\estruturas_consdicionais.dll
